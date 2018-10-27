@@ -1,0 +1,10 @@
+[package]
+name = "ruble"
+description = "bluetooth low energy API"
+repository = "https://github.com/swiftcoder/ruble"
+version = "0.1.0"
+authors = ["Tristam MacDonald <swiftcoder@gmail.com>"]
+edition = "2018"
+license = "Apache-2.0"
+
+[dependencies]
